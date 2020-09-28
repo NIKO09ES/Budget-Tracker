@@ -6,7 +6,7 @@
 
   Existing budget tracker application to allow for offline access and functionality. 
   
-  ![Homepage](./public/img/whome.jpg)
+  ![Homepage](./public/img/Homepage.jpg)
 
   [Go to the site](https://dry-escarpment-43698.herokuapp.com/)
 
