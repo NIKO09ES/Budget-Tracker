@@ -26,7 +26,8 @@
   
   ## Usage 
   
-  
+  You can enter transactions such as adding and subtracting funds in the website online and offline. These transactions will be reflected in the total amount. 
+  Also, you will be able to see these transactions in the graphic.
   
   
   ## License
